@@ -1,0 +1,6 @@
+{
+  "name": "Audiolibros",
+  "description": "Un reproductor de audiolibros y podcasts, con soporte offline y guardado de progreso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
